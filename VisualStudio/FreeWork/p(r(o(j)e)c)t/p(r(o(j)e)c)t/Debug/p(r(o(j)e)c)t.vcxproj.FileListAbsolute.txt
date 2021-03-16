@@ -1,0 +1,2 @@
+Q:\C++\NewRep12\VisualStudio\FreeWork\p(r(o(j)e)c)t\Debug\p(r(o(j)e)c)t.exe.lastcodeanalysissucceeded
+Q:\C++\NewRep12\VisualStudio\FreeWork\p(r(o(j)e)c)t\p(r(o(j)e)c)t\Debug\NativeCodeAnalysis.read.1.tlog
