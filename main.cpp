@@ -12,7 +12,7 @@ int main()
      
     
     while (c != '.'){
-        toupper(c);  
+         c = toupper(c);  
         if (countLetters.count(c)){
             countLetters[c]++;
         }else{
