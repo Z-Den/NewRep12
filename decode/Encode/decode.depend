@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631527733 source:c:\users\public\documents\11 класс 2021-2022\dzen\decode\encode\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
